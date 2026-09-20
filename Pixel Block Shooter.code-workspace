@@ -1,0 +1,13 @@
+{
+  "folders": [
+    {
+      "name": "Pixel Block Shooter",
+      "path": "."
+    }
+  ],
+  "settings": {
+    "files.exclude": {
+      "**/.DS_Store": true
+    }
+  }
+}
